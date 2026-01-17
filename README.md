@@ -58,14 +58,14 @@ The project includes:
 
 ---
 
-### Usage
+### 🧪 Usage
 1. Launch the chatbot using python chatbot.py
 2. Type messages to interact
 3. The bot matches your input with intents in intents.json and replies accordingly
 
 ---
 
-### How It Works
+### 🤖 How It Works
 1. The chatbot reads the intents from intents.json
 2. Text input is vectorized using a text vectorizer
 3. A trained ML model predicts the user intent
